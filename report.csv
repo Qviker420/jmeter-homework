@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1688144344295,387,HTTP Request,403,Forbidden,JMeterHomeWork1 1-1,text,false,,5140,120,1,1,https://reqres.in/api/users,383,0,340
+1688144349235,110,HTTP Request,403,Forbidden,JMeterHomeWork1 1-2,text,false,,5140,120,1,1,https://reqres.in/api/users,109,0,67
+1688144354234,122,HTTP Request,403,Forbidden,JMeterHomeWork1 1-3,text,false,,5136,120,1,1,https://reqres.in/api/users,121,0,82
+1688144359234,157,HTTP Request,403,Forbidden,JMeterHomeWork1 1-4,text,false,,5146,120,1,1,https://reqres.in/api/users,145,0,104
+1688144364233,153,HTTP Request,403,Forbidden,JMeterHomeWork1 1-5,text,false,,5138,120,1,1,https://reqres.in/api/users,152,0,112
+1688144369233,137,HTTP Request,403,Forbidden,JMeterHomeWork1 1-6,text,false,,5136,120,1,1,https://reqres.in/api/users,137,0,103
+1688144374234,121,HTTP Request,403,Forbidden,JMeterHomeWork1 1-7,text,false,,5138,120,1,1,https://reqres.in/api/users,109,0,69
+1688144379233,102,HTTP Request,403,Forbidden,JMeterHomeWork1 1-8,text,false,,5142,120,1,1,https://reqres.in/api/users,101,0,68
+1688144384233,111,HTTP Request,403,Forbidden,JMeterHomeWork1 1-9,text,false,,5142,120,1,1,https://reqres.in/api/users,110,0,70
+1688144389234,185,HTTP Request,200,OK,JMeterHomeWork1 1-10,text,true,,1714,120,1,1,https://reqres.in/api/users,184,0,119
